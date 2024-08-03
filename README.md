@@ -1,4 +1,4 @@
-**# Laravel Docker
+# Laravel Docker
 <a href="/LICENSE"><img alt="License" src="https://img.shields.io/github/license/antoinebonin/laravel-docker"></a>
 
 Dockerfiles prêts pour la production pour des services web et microservices propulsés par Laravel Octane.
