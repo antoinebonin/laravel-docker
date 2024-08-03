@@ -1,5 +1,6 @@
 # Laravel Docker
 <a href="/LICENSE"><img alt="License" src="https://img.shields.io/github/license/antoinebonin/laravel-docker"></a>
+[![🧪Test](https://github.com/antoinebonin/laravel-docker/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/antoinebonin/laravel-docker/actions/workflows/test.yml)
 
 Dockerfiles prêts pour la production pour des services web et microservices propulsés par Laravel Octane.
 
