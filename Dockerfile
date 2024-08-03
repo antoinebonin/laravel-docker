@@ -110,7 +110,7 @@ RUN composer install \
     --no-interaction \
     --no-autoloader \
     --no-ansi \
-    --no-scripts \
+    --no-scripts
 
 # On importe nos vendors node
 COPY --link --chown=${USER}:${USER} . .
